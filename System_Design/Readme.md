@@ -228,5 +228,3 @@ Read engineering blogs from companies at scale:
 
 ---
 
-## Key Mindset Shift
-As you progress, the goal shifts from "knowing facts about caching/sharding" to **reasoning about trade-offs under ambiguous requirements**. Every design decision in system design is a trade-off (consistency vs availability, latency vs cost, simplicity vs flexibility) — advanced mastery means being able to justify *why* you chose one over another for a specific context, not reciting a "correct" architecture.
